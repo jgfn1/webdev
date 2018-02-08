@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Hello, Web Development World!</title>	
+	</head>
+	<body>
+		<h1><strong>HELLO, WEB DEVELOPMENT WORLD!!!</strong></h1>
+		<img src="http://animereviews.co/wp-content/uploads/2012/06/Serial-Experiments-Lain-Computer-Room.jpg" alt="Picture of a girl sitting on the ground studying hard about computers.">
+	</body>
+</html>
